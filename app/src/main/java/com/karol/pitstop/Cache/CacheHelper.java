@@ -3,8 +3,6 @@ package com.karol.pitstop.Cache;
 import android.content.Context;
 
 import com.karol.pitstop.API.Location;
-import com.squareup.picasso.OkHttpDownloader;
-import com.squareup.picasso.Picasso;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -41,7 +39,7 @@ public class CacheHelper {
     }
 
 
-    //Get String from disc
+    //Get Location List from disc
     public static ArrayList<Location> retrieve(Context context) {
 
         try {
