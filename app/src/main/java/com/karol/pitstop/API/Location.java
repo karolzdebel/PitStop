@@ -146,6 +146,12 @@ public class Location implements Parcelable,Serializable {
 
         //Get the hours into correct format
         String[] hourBounds = formatHourBound(todaysHoursString.split("-"));
+
+        //Check if closed today
+        if (hourBounds.length == 1){
+            return false;
+        }
+
         String openTime = hourBounds[0];
         String closeTime = hourBounds[1];
 
