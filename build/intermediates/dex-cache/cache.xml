@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\e1272a544432cc4b467a98a31ecf6436b0accb99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e70692c31517e27f9226767e37e3db399c17001a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\545591fd0e371e396567b408ec55b522f11a9ce5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9ca6c45dfd58fe96603ba59c27996ae9125b8f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\PitStop\app\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_c754fb690c9a8b65af32adaa705f7c58a3130fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\libs\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.6.0_df930947f8aed1f33c77d06a5f1da4ea46f455fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a46bb185bd0a2dd27f190530a7805f97805a0d1">
+        <dex dex="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_906dc0686160ce16a22516a89774b728a52f4e05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\85f803c78ccaedcc6c3226f1b1eed03eceb0b407\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b43576d05ad96199311917e73815d67917c67b10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3d67f8a18194cc417c6b45de1e2fcc30a212c53">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_af4bdbe5f89ecd44c4b30452879ea5d930d6d59c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\08016bea2d393120b1a0b6ea1ce0ab061c100227\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2095656ef6a69533d5943e2fa49d64df02101852\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_9a7e550c84a17c0505702269c4aa866d72d608c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_5a257b20475f4a1c31de900699848d6338ceddca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\ed5ec5bc5fc9733461169a326c6b942c86d9ded7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63cbfacbf8a5a44efdee2c4fa71b283d8bad6712\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_879cf7054194a170538d4675fd2ba126dab32674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_5663ec2759389a74fb017c6f942d27ea347820ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_5d0daaea9bab6d5c3ec53d3da5075e1f429d4d40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\af1675dc05bc172c65a575e04ac081f4159388a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_051d2d11cdb8be03e5c2d2d34e958315f6801860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\961e9e156f1ce58827183834920649117299cf84\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_073561cad7b582002e5bedaa0eb33566fb5a0ad3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\89458e6c90e3d8bbf0898122c952931d535e8d29\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_741c074f679978f755ef65c71b171a4b1240d6cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\0d43df1d79360ce6230714c79ad794b233f1c77e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6f5c3047f2672f42fa90e2c0cedcbd1cdf304d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\55fa8a154e60c8cc100a2b657d5fc8f001e079e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc45941e347e74af3ab81f1de4a74742eab5c61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\4cf2123c09d2888c84badd07e7a28915c7311bef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11c3543f9c86578bfa72dab47ccd71b4a2387a36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_05dacfb46a3dfc1e4711a97152f71260b6952f12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\libs\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_513bb245e37e12a253ac3a42383fc3e7b1f0bf05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_d08fea36553b13aa9dc22cc406b5e3c87a877645\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\aa19d6ee96ee4d81e98a4070b2999563c0314f3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4b480ad6a0958de96d6aaf63e76d224033a77e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\e7b29526ead02e8704324550ebd4e871b3cd7198\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91389050227045d1b06e4028eece250ccc6a3ad7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\31c69f50d60c50054c4b0c9dfc57a773b6c5b197\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b095eb947ba7894b1de6a581e604275aaa4fe1dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_0de6129fe78139b47b04949d69731c09b520f362\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\PitStop\app\libs\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.6.0_60ae014dc30327a1ed285288ccbfba669e843cb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\AndroidStudioProjects\PitStop\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\K\AndroidStudioProjects\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_19a2dfc2e06c3addd4f9f1c3c24f29547154400f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\f06fed62be9cf1af31f322d869b78d666c578f17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2c14f016d7c1c5c644d84dc611d57263705032f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_84e1023691f04c768f6fb7c2a68d889a68f03f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\K\.android\build-cache\a35b920fe672749122c016852d087cd6831094b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\K\AndroidStudioProjects\DementiaHack\PitStop\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16acb252251165466a6440f3d625e37f9e742a1d\classes.dex" />
+    </item>
+
+</items>

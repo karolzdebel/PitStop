@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PitStop</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="open">open</string>
+    <string name="closed">closed</string>
+    <string name="activity_location_direction_button">Get Directions</string>
+    <string name="google_maps_key">AIzaSyBiX7HKGJUPuddojLVfLazVVsfoIL8dpEo</string>
+    <string name="activity_browse_ontario_locations">Ontario Locations</string>
+    <string name="activity_browse_title">Ontario Locations</string>
+</resources>
